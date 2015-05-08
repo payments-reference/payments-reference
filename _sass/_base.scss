@@ -202,3 +202,16 @@ pre {
         }
     }
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  th {
+    text-align: left;
+    padding: 0.4em;
+  }
+  td {
+    border: solid 1px #ccc;
+    padding: 0.4em;
+  }
+}
