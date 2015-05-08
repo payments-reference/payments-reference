@@ -1,6 +1,6 @@
 # Site settings
 title: Payments Reference
-email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Payments reference is not formally affiliated or sponsored by any company. It is written by people who want to make payments safer and easier for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog/
