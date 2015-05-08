@@ -8,7 +8,6 @@ To be [PCI Compliant](/pci-compliance/) as a merchant, you'll need to fill out a
 
 Under PCI DSS v3: there are 3 SAQ's an e-commerce merchant can fall under.
 
-- For a table
 
 # SAQ A
 
@@ -22,4 +21,8 @@ Everything else.
 
 # Questions
 
-There's also PCI Level 1, does that fit into the SAQ scale?
+There's also PCI Level 1, does that fit into the SAQ scale? (those are based on volume https://www.pcicomplianceguide.org/pci-faqs-2/#5, will add later)
+
+# Also
+ 
+- [A table of integrations and the easiest SAQ they qualify you for](/pci-compliance/integrations/)
