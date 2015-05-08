@@ -10,7 +10,7 @@ Under PCI DSS v3: there are 3 SAQ's an e-commerce merchant can fall under.
 
 # SAQ A
 
-The easiest. Requires use of an iframe or a redirect so that payment information is entered directly on the provider's domain.
+The easiest. Requires use of an iframe or a redirect so that payment information is entered directly on the [provider's](/glossary/#provider) domain.
 
 # SAQ A-EP
 
