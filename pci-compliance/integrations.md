@@ -4,10 +4,6 @@ title: The PCI burden of various integrations
 permalink: /pci-compliance/integrations/
 ---
 
-# Adyen
-
-# Authorize.net
-
 # Braintree
 
 Platform | Integration | PCI Scope | Description
