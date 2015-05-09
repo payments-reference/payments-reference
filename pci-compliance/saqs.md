@@ -24,6 +24,6 @@ This is a new SAQ in PCI v3. It is targeted as an option for merchants who don't
 
 If you're a PCI Level 1 merchant, you fall under SAQ D. This SAQ should only be relevant to payment gateways (I think).
 
-# Also
+#### See also:
 
-- [A table of integrations and the easiest SAQ they qualify you for](/pci-compliance/integrations/)
+- [Payments Reference: The PCI burden of various integrations](/pci-compliance/integrations/)
