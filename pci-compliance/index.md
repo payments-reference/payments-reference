@@ -10,10 +10,13 @@ If you have a data breach or process a large volume of transactions and do not a
 
 If you're handling under a certain amount of transaction volume, you can fill out a Self Assessment Questionnaire that reduces your liability in the event of a breach.
 
-See [SAQs (Self Assessment Questionnaires)](/pci-compliance/saqs/).
+#### See [SAQs (Self Assessment Questionnaires)](/pci-compliance/saqs/)
 
 The SAQ you are eligible to fill out is highly dependent on your payment integration method.
 
-See [integrations and their SAQs](/pci-compliance/integrations/).
+#### See [The PCI burden of various integrations](/pci-compliance/integrations/)
 
-https://www.pcicomplianceguide.org/pci-faqs-2/#5
+#### See also:
+
+- [Braintree: PCI Compliance](https://articles.braintreepayments.com/reference/security/pci-compliance)
+- [Stripe: Do I need to be PCI compliant? What do I have to do?](https://support.stripe.com/questions/do-i-need-to-be-pci-compliant-what-do-i-have-to-do)
