@@ -15,3 +15,5 @@ See [SAQs (Self Assessment Questionnaires)](/pci-compliance/saqs/).
 The SAQ you are eligible to fill out is highly dependent on your payment integration method.
 
 See [integrations and their SAQs](/pci-compliance/integrations/).
+
+https://www.pcicomplianceguide.org/pci-faqs-2/#5
