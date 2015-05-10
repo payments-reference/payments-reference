@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contributing
+permalink: /contributing/
 ---
-
-## Contributing
 
 If you find anything amiss or that could be improved, please [submit an issue!](https://github.com/payments-reference/payments-reference.github.io/issues/new) (or even better, whip up [a PR](https://github.com/payments-reference/payments-reference.github.io/compare)).
