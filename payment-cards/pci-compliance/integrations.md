@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The PCI burden of various integrations
-permalink: /pci-compliance/integrations/
+permalink: /payment-cards/pci-compliance/integrations/
 ---
 
 # Braintree
