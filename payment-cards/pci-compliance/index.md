@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PCI Compliance
-permalink: /pci-compliance/
+permalink: /payment-cards/pci-compliance/
 ---
 
 The [Payment Card Industry Data Security Standard](http://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard) is a set of rules developed by the major credit card issuers.
