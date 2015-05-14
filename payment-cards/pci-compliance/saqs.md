@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Self Assessment Questionnaires
-permalink: /pci-compliance/saqs/
+permalink: /payment-cards/pci-compliance/saqs/
 ---
 
-To be [PCI Compliant](/pci-compliance/) as a merchant, you'll need to fill out an SAQ, or Self Assessment Questionnaire.
+To be [PCI Compliant](/payment-cards/pci-compliance/) as a merchant, you'll need to fill out an SAQ, or Self Assessment Questionnaire.
 
 Most likely, the 2 SAQ's that are relevant to you if you accept payments online are [SAQ A](#saq-a) and [SAQ A-EP](#saq-a-ep). For a full list, see [Understanding the SAQs for PCI DSS version 3](https://www.pcisecuritystandards.org/documents/Understanding_SAQs_PCI_DSS_v3.pdf).
 
@@ -30,4 +30,4 @@ If your servers handle and/or store raw credit card data, you fall into SAQ D.
 
 #### See also:
 
-- [Payments Reference: The PCI burden of various integrations](/pci-compliance/integrations/)
+- [Payments Reference: The PCI burden of various integrations](/payment-cards/pci-compliance/integrations/)
