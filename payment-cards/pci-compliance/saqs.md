@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self Assessment Questionnaires
-permalink: /payment-cards/pci-compliance/saqs.html
+permalink: /payment-cards/pci-compliance/saqs/
 ---
 
 To be [PCI Compliant](/payment-cards/pci-compliance/) as a merchant, you'll need to fill out an SAQ, or Self Assessment Questionnaire.
