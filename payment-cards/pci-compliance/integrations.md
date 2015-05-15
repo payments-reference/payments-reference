@@ -9,6 +9,7 @@ permalink: /payment-cards/pci-compliance/integrations/
 Platform | Integration | PCI Scope | Description
 -----|-----|-----|-----
 Web | [Drop-in UI](https://developers.braintreepayments.com/javascript/guides/drop-in) | [SAQ A](/pci-compliance/saqs/#saq-a) | Full credit card, PayPal, and Coinbase form.
+Web | [Hosted Fields](https://developers.braintreepayments.com/javascript/guides/hosted-fields/overview) | [SAQ A](/pci-compliance/saqs/#saq-a) | Customizable hosted input fields.
 Web | [Custom](https://developers.braintreepayments.com/javascript/guides/credit-cards#client-side-integration) | [SAQ A-EP](/pci-compliance/saqs/#saq-a-ep) | Attaches to `<form>` submit.
 Web | [Advanced](https://developers.braintreepayments.com/javascript/guides/credit-cards#tokenize-card) | [SAQ A-EP](/pci-compliance/saqs/#saq-a-ep) | Tokenize raw card data.
 Web | Client-side Encryption (deprecated) | ambiguous | Attaches to `<form>` submit.
