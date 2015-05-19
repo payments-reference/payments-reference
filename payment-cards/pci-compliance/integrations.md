@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The PCI burden of various integrations
+nav_title: Integrations
 permalink: /payment-cards/pci-compliance/integrations/
 ---
 

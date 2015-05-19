@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Self Assessment Questionnaires
+nav_title: SAQs
 permalink: /payment-cards/pci-compliance/saqs/
 ---
 
