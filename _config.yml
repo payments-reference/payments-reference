@@ -35,3 +35,5 @@ nav:
           path: /payment-cards/pci-compliance/levels/
   - title: Cryptocurrency
     path: /cryptocurrency/
+  - title: Merchant Checklist
+    path: /checklists/merchant/
