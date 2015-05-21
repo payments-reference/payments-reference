@@ -11,3 +11,21 @@ github_username: payments-reference
 
 # Build settings
 markdown: kramdown
+
+nav:
+  - title: Glossary
+    path: /glossary/
+  - title: Payment Cards
+    path: /payment-cards/
+    sublist:
+    - title: Declines
+      path: /payment-cards/declines/
+    - title: PCI Compliance
+      path: /payment-cards/pci-compliance/
+      sublist:
+        - title: SAQs
+          path: /payment-cards/pci-compliance/saqs/
+        - title: Integrations
+          path: /payment-cards/pci-compliance/integrations/
+  - title: Cryptocurrency
+    path: /cryptocurrency/

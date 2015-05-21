@@ -154,6 +154,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+    position: relative;
     max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -223,4 +224,30 @@ div.feedback {
   border-top: solid 1px #ddd;
   color: #777;
   font-size: 0.9em;
+}
+
+nav.main-nav {
+  position: absolute;
+  top: 0;
+  left: -160px;
+  width: 160px;
+  padding-right: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+
+  ul {
+    margin-left: 0;
+    margin-bottom: 0.2em;
+    > li {
+      list-style-type: none;
+      margin-bottom: 0.2em;
+      > ul {
+        margin-left: 1em; 
+      }
+    }
+  }
+}
+
+div.page-content {
+  min-height: 500px;
 }

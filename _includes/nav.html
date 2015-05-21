@@ -1,0 +1,30 @@
+<nav class="main-nav">
+  {% for category in site.nav %}
+    <ul>
+      {% if category.title %}
+        <li><a href="{{ category.path }}">{{ category.title }}</a></li>
+      {% endif %}
+
+      {% if category.sublist %}
+        <li>
+          <ul>
+            {% for page in category.sublist %}
+              <li><a href="{{ page.path }}">{{ page.title }}</a></li>
+
+              {% if page.sublist %}
+                <li>
+                  <ul>
+                    {% for subpage in page.sublist %}
+                      <li><a href="{{ subpage.path }}">{{ subpage.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% endif %}
+
+            {% endfor %}
+          </ul>
+        </li>
+      {% endif %}
+    </ul>
+  {% endfor %}
+</nav>
