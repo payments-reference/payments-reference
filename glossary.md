@@ -10,7 +10,7 @@ A company that stands in-between the merchant and a processing bank to reduce th
 
 ### Integration
 
-Generally used in this reference to refer to the method by which a merchant sends payment information to a payment gateway. [Stripe Checkout](/pci-compliance/integrations/#stripe) is an example.
+Generally used in this reference to refer to the method by which a merchant sends payment information to a payment gateway. [Stripe Checkout](/payment-cards/pci-compliance/integrations/#stripe) is an example.
 
 ### Processing bank
 
