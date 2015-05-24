@@ -12,7 +12,7 @@ Accepting cryptocurrencies can be pretty easy with a number of companies allow y
 
 While credit card payments can be confirmed instantly, cryptocurrencies often have a delay while payment confirmation propagates across the network. Many merchant APIs though support instant confirmations.
 
-For a basic introduction to Bitcoin, checkout [TryBTC](https://www.trybtc.com)
+For a basic introduction to Bitcoin, check out [TryBTC](https://www.trybtc.com).
 
 #List of Bitcoin Merchant APIs
 [Bitpay](https://bitpay.com/) - No transaction fees. A powerful API, 8 ready-made libraries, plugins for 22 e-commerce solutions, and instant integration into the world’s best e-commerce web services  
