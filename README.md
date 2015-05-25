@@ -1,4 +1,4 @@
-# [payments-reference.org](http://payments-reference.org/) <a href="https://travis-ci.org/payments-reference/payments-reference.github.io"><img src="https://api.travis-ci.org/payments-reference/payments-reference.github.io.svg" /></a>
+# [payments-reference.org](http://payments-reference.org/)[![Build Status](https://travis-ci.org/payments-reference/payments-reference.github.io.svg?branch=master)](https://travis-ci.org/payments-reference/payments-reference.github.io)
 
 A source of unbiased, (hopefully) helpful information about accepting payments online.
 
