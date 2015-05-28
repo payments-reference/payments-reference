@@ -23,66 +23,66 @@
     }
 }
 
+.cover-nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  z-index: 5;
+  padding: 1em;
+  display: none;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
 
     .menu-icon {
-        display: none;
+      display: none;
     }
 
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
+      color: $text-color;
+      line-height: $base-line-height;
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+      // Gaps between nav items, but not on the first one
+      &:not(:first-child) {
+        margin-left: 20px;
+      }
     }
 
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+      .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 19px;
+        text-align: center;
 
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
+        &:hover {
+          cursor: pointer;
+          > svg path {
+            fill: $grey-color-light;
+          }
         }
 
-        .trigger {
-            clear: both;
-            display: none;
-        }
+        > svg {
+          width: 18px;
+          height: 15px;
 
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
+          path {
+            fill: $grey-color-dark;
+          }
         }
+      }
 
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
+      .page-link {
+        display: none;
+      }
     }
 }
 

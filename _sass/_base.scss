@@ -155,8 +155,8 @@ pre {
  */
 .wrapper {
     position: relative;
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(960px - (#{$spacing-unit} * 2));
+    max-width:         calc(960px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -164,8 +164,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(960px - (#{$spacing-unit}));
+        max-width:         calc(960px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
@@ -227,14 +227,6 @@ div.feedback {
 }
 
 nav.main-nav {
-  position: absolute;
-  top: 0;
-  left: -160px;
-  width: 160px;
-  padding-right: 1em;
-  margin-right: 1em;
-  margin-bottom: 1em;
-
   ul {
     margin-left: 0;
     margin-bottom: 0.2em;
@@ -245,6 +237,12 @@ nav.main-nav {
         margin-left: 1em; 
       }
     }
+  }
+}
+
+.aside-nav {
+  @include media-query($on-palm) {
+    display: none;
   }
 }
 
