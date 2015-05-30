@@ -12,6 +12,14 @@ A company that stands in-between the merchant and a processing bank to reduce th
 
 Generally used in this reference to refer to the method by which a merchant sends payment information to a payment gateway. [Stripe Checkout](/payment-cards/pci-compliance/integrations/#stripe) is an example.
 
+### Issuing bank
+
+A bank (e.g. Bank of America) that issues credit cards to consumers.
+
+### Network
+
+Also Card Network. This is an organziation like Visa or Mastercard that issues cards (ether directly or through an [issuing bank](#issuing-bank)) and authorize credit card transactions.
+
 ### Processing bank
 
 A company that accepts credit card transactions and settles them with the various card networks. Some companies take on the role of gateway and processing bank.

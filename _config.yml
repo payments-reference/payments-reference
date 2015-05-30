@@ -29,5 +29,9 @@ nav:
           path: /payment-cards/pci-compliance/saqs/
         - title: Integrations
           path: /payment-cards/pci-compliance/integrations/
+        - title: Front-end
+          path: /payment-cards/pci-compliance/front-end/
+        - title: Levels
+          path: /payment-cards/pci-compliance/levels/
   - title: Cryptocurrency
     path: /cryptocurrency/
