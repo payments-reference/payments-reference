@@ -19,5 +19,5 @@ For a basic introduction to Bitcoin, check out TryBTC: https://www.trybtc.com/
 [Coinbase](https://coinbase.com) - Free for the first $1M processed. Coinbase also supports subscriptions if your customer also has a Coinbase wallet. Features a full API, shopping card plugins, email invoices, and more.
 
 #List of Credit Card Processing Companies Supporting Bitcoin
-[Stripe](https://stripe.com/bitcoin) - 0.5% per Bitcoin transaction, funds get instantly converted to the currency supported by your bank account. 
+[Stripe](https://stripe.com/bitcoin) - 0.5% per Bitcoin transaction, funds get instantly converted to the currency supported by your bank account.  
 [Braintree](https://www.braintreepayments.com/features/coinbase) - Braintree allows you to connect your Coinbase account allowing you to use one API to support both credit card and Bitcoin transactions. 
