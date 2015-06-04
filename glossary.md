@@ -27,3 +27,7 @@ A company that accepts credit card transactions and settles them with the variou
 ### Provider
 
 Usually referring to a payment gateway.
+
+### QSA
+
+A Qualified Security Assessor reviews the PCI compliance of your system and fills out an Annual Report on Compliance. QSA's are usually only needed by [Level 1](/payment-cards/pci-compliance/levels/) merchants.

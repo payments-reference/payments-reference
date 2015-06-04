@@ -249,3 +249,12 @@ nav.main-nav {
 div.page-content {
   min-height: 500px;
 }
+
+.popout {
+  margin-bottom: 1em;
+  padding: 0.6em;
+  &.warning {
+    border-top: solid 12px #fdfba5;
+    background-color: #fafafa;
+  }
+}
