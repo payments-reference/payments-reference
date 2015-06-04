@@ -4,7 +4,7 @@ title: Payments Reference
 description: > # this means to ignore newlines until "baseurl:"
   Payments Reference is not formally affiliated or sponsored by any company. It is written by people who want to make payments safer and easier for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://payments-reference.org" # the base hostname & protocol for your site
+url: "https://payments-reference.org" # the base hostname & protocol for your site
 hostname: "payments-reference.org"
 # twitter_username: jekyllrb
 github_username: payments-reference
