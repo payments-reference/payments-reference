@@ -18,7 +18,12 @@ permalink: /checklists/merchant/
   - How to find a QSA (Level 1)
 - Make a plan for how to handle declines
   - [Declines](/payment-cards/declines/)
-- Make a plan for how to handle refunds
+- Figure out where to host your checkout page
+  - Host it yourself, accept payments on your own site
+    - Using a payment gateway, how to select one
+  - Use a pre-built solution like Shopify
+- Make a plan for how to handle disputes
+  - Chargebacks
 - Make a plan to minimize fraud
   - AVS
   - Fraud providers like Kount
