@@ -8,10 +8,10 @@ permalink: /checklists/merchant/
   - Credit cards
   - PayPal
   - Bitcoin
+    - Accept as Bitcoin or in USD?
     - There are a few ways you can accept Bitcoin:
-    - Raw blockchain
-    - API
-      - Braintree, Coinbase, Stripe
+      - Raw blockchain
+      - API: Braintree, Coinbase, Stripe
 - If you're accepting credit cards, make sure you're PCI compliant
   - [PCI Compliance](/payment-cards/pci-compliance/)
   - Figure out what SAQ to fill out (Levels 2-4)
