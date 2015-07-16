@@ -24,6 +24,8 @@ From [Understanding the SAQs for PCI DSS version 3](https://www.pcisecuritystand
 
 > Card-not-present merchants (e-commerce or mail/telephone-order) that have fully outsourced all cardholder data functions to PCI DSS validated third-party service providers, with no electronic storage, processing, or transmission of any cardholder data on the merchant’s systems or premises.
 
+Full text of SAQ A v3.1: [PDF](https://www.pcisecuritystandards.org/documents/SAQ_A_v3-1.pdf)
+
 ## SAQ A-EP
 
 This is a new SAQ in PCI v3. It is targeted as an option for merchants who don't fall under SAQ A.
@@ -34,9 +36,13 @@ SAQ A-EP from [Understanding the SAQs for PCI DSS version 3](https://www.pcisecu
 
 > E-commerce merchants who outsource all payment processing to PCI DSS validated third parties, and who have a website(s) that doesn’t directly receive cardholder data but that can impact the security of the payment transaction. No electronic storage, processing, or transmission of any cardholder data on the merchant’s systems or premises.
 
+Full text of SAQ A-EP v3.1: [PDF](https://www.pcisecuritystandards.org/documents/SAQ_A-EP_v3-1.pdf)
+
 ## SAQ D
 
 If your servers handle and/or store raw credit card data, you fall into SAQ D.
+
+Full text of SAQ D v3.1: [PDF](https://www.pcisecuritystandards.org/documents/SAQ_D_v3-1_Merchant.pdf)
 
 #### See also:
 
