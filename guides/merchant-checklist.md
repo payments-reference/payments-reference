@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Merchant Checklist
-permalink: /checklists/merchant/
+permalink: /guides/merchant-checklist/
 ---
 
 As a merchant integrating payments for the first time, there doesn't seem to be once place to go to find out the exact steps to take to accept payments online and make sure I'm doing so in a safe manner.
